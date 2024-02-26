@@ -2,7 +2,6 @@
 --"""""""""""""""""""""""""""""" Data Engineering """"""""""""""""""""""""""""
 --****************************************************************************
 
--- PART 1 - Data Engineering
 -- Creating table schema
 -- Create department table 
 
